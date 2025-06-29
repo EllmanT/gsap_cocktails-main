@@ -18,6 +18,7 @@ const App = () => {
 	 <Hero />
 	 <Cocktails />
 	<About/>
+	<Art/>
 	</main>
  )
 }
